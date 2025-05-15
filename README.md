@@ -4,7 +4,6 @@ This is a simple static website hosted with [GitHub Pages](https://pages.github.
 
 ## 🔗 Live Website
 
-👉 [Click here to view the site](https://yourusername.github.io/your-repo-name/)
+👉 [Click here to view the site](https://claireporkbun.github.io/claire5-15/)
 
 ## 📁 Project Structure
-
